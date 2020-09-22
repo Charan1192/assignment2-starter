@@ -9,4 +9,4 @@ In this file you **must**:
 
 ## Data
 
-The assignment's train data can be found in [data/train.csv](data/train.csv).
+The assignment's train data can be found in [data/train.tsv](data/train.tsv).
