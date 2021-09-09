@@ -16,7 +16,7 @@ In this file you **must**:
 ## Execution
 Example usage: use the following command in the current directory.
 
-`python3 src/main.py data/train.tsv grammars/toy.cfg output/dev.csv`
+`python3 src/main.py data/train.tsv grammars/toy.cfg output/train.tsv`
 
 ## Data
 
