@@ -70,7 +70,7 @@ id	label	sentence	pos
 248	0	I think it is worthwhile seeing it .	PRP VBP PRP VBZ JJ VBG PRP . 
 714	1	I am not also keen on preparing it .	PRP VBP RB RB JJ IN VBG PRP . 
 762	1	Was very exciting moment and very nice competition .	VBD RB JJ NN CC RB JJ NN . 
-74	0	" Sara remembered the golden fish . "	`` NNP VBD DT JJ NN . ''
+74	0	""" Sara remembered the golden fish . """	`` NNP VBD DT JJ NN . ''
 113	0	You asked me about an interesting building to visit .	PRP VBD PRP IN DT JJ NN TO VB . 
 578	0	I am really looking forward to this camp .	PRP VBP RB VBG RB IN DT NN . 
 671	0	The hotel is called Epsom Down Hotel .	DT NN VBZ VBN NNP NNP NNP . 
