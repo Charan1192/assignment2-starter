@@ -136,7 +136,7 @@ id	label	sentence	pos
 237	0	I ask you to return my money .	PRP VBP PRP IN VB PRP$ NN . 
 93	0	You ca n't imagine how fun it was !	PRP MD RB VB WRB JJ PRP VBD . 
 450	0	I was really disappointed with your show .	PRP VBD RB JJ IN PRP$ NN . 
-570	0	. I am glad to provide all the information	. PRP VBP JJ TO VB PDT DT NN 
+570	0	I am glad to provide all the information .	PRP VBP JJ TO VB PDT DT NN .
 542	0	Nobody informed me about that .	NN VBD PRP IN DT . 
 284	0	So I paid for the ticket .	RB PRP VBD IN DT NN . 
 184	0	People 's imaginations are enormous .	NNS POS NNS VBP JJ . 
@@ -334,7 +334,7 @@ id	label	sentence	pos
 813	1	I have a big news .	PRP VBP DT JJ NNS . 
 207	0	I answered her saying I probably would die .	PRP VBD PRP VBG PRP RB MD VB . 
 728	1	I look forward to reading from you .	PRP VBP RB IN VBG IN PRP . 
-843	0	At home , there are less rules .	IN NN , EX VBP JJR NNS . 
+843	0	At home , there are fewer rules .	IN NN , EX VBP JJR NNS . 
 8	0	They all know where the conference is and when .	PRP DT VBZ WRB DT NN VBZ CC WRB . 
 821	1	And if during the nights there are entrotenements ?	CC IN IN DT NNS EX VBP NNS . 
 36	0	That 's why I 'd like to feel adventurous .	DT VBZ WRB PRP MD VB TO VB JJ . 
