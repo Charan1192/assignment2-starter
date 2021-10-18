@@ -41,7 +41,7 @@ id	label	sentence	pos
 264	0	I am a student in the English class .	PRP VBP DT NN IN DT JJ NN . 
 590	0	It was your fault .	PRP VBD PRP$ NN . 
 594	0	What clothes should we take with us ?	WDT NNS MD PRP VB IN PRP . 
-741	1	it will still be filled with vegetables and meat .	PRP MD RB VB VBN IN NNS CC NN . 
+741	0	It will still be filled with vegetables and meat .	PRP MD RB VB VBN IN NNS CC NN . 
 323	0	Yesterday was Valentine 's day here in Portugal .	NN VBD NNP POS NNP RB IN NNP . 
 18	0	Let me answer these questions .	VB PRP VB DT NNS . 
 621	1	So do n't laugh about this idea .	RB VBP RB VB IN DT NN . 
@@ -60,7 +60,7 @@ id	label	sentence	pos
 822	1	But it was worthy .	CC PRP VBD JJ . 
 650	1	But it was n't all .	CC PRP VBD RB DT . 
 361	0	It was very sad news about Richard Brown .	PRP VBZ RB JJ NNS IN NNP NNP . 
-412	0	We have planned a barbecue for 5 oo pm	PRP VBP VBD DT NN IN CD GW NN 
+412	0	We have planned a barbecue for 5 oo pm	PRP VBP VBD DT NN IN CD CD NN 
 828	1	This let Nick very embrassed and got hurt .	DT VBD NNP RB JJ CC VBD VBN . 
 529	0	I have great experience of sailing .	PRP VBP JJ NN IN NN . 
 176	0	Here is the information you asked for :	RB VBZ DT NN PRP VBD IN : 
@@ -70,10 +70,10 @@ id	label	sentence	pos
 248	0	I think it is worthwhile seeing it .	PRP VBP PRP VBZ JJ VBG PRP . 
 714	1	I am not also keen on preparing it .	PRP VBP RB RB JJ IN VBG PRP . 
 762	1	Was very exciting moment and very nice competition .	VBD RB JJ NN CC RB JJ NN . 
-74	0	""" Sara remembered the golden fish ."	`` NNP VBD DT JJ NN . 
+74	0	""" Sara remembered the golden fish . """	`` NNP VBD DT JJ NN . ''
 113	0	You asked me about an interesting building to visit .	PRP VBD PRP IN DT JJ NN TO VB . 
 578	0	I am really looking forward to this camp .	PRP VBP RB VBG RB IN DT NN . 
-671	1	The hotel is called Epsom Down Hotel .	DT NN VBZ VBN NNP NNP NNP . 
+671	0	The hotel is called Epsom Down Hotel .	DT NN VBZ VBN NNP NNP NNP . 
 104	0	But everything was terrible and different to your advertisement .	CC NN VBD JJ CC JJ IN PRP$ NN . 
 114	0	Every statement was wrong .	DT NN VBD JJ . 
 362	0	And of course technology is also changing .	CC RB RB NN VBZ RB VBG . 
@@ -83,7 +83,7 @@ id	label	sentence	pos
 336	0	I find it more sociable than a log cabin .	PRP VBP PRP RBR JJ IN DT NN NN . 
 482	0	I 'll never wash my hand again .	PRP MD RB VB PRP$ NN RB . 
 792	1	Be you studing a lot ?	VB PRP VBG DT NN . 
-803	1	I was draged to learn sailing .	PRP VBD VBN TO VB VBG . 
+803	0	I was dragged to learn sailing .	PRP VBD VBN TO VB VBG . 
 526	0	You can see the sign for the hotel .	PRP MD VB DT NN IN DT NN . 
 531	0	Yours sincerely ,	PRP RB . 
 94	0	It is more interesting than sleeping in log cabins .	PRP VBZ RBR JJ IN VBG IN NN NNS . 
@@ -94,11 +94,11 @@ id	label	sentence	pos
 329	0	What do you think about this suggestion ?	WP VBP PRP VBP IN DT NN . 
 167	0	We can show our figure in winter as well .	PRP MD VB PRP$ NN IN NN RB RB . 
 755	1	See you and write me soon .	VB PRP CC VB PRP RB . 
-754	1	In conclusion , I had an unforgetable time .	IN NN , PRP VBD DT JJ NN . 
+754	0	In conclusion , I had an unforgettable time .	IN NN , PRP VBD DT JJ NN . 
 656	1	Thank you very much for this occasion	VB PRP RB RB IN DT NN 
 462	0	Give a topic and then discuss it .	VB DT NN CC RB VB PRP . 
 178	0	Moreover , I am keen on summer .	RB , PRP VBP JJ IN NN . 
-644	1	Shopping is not always enjoyable ,	NN VBZ RB RB JJ , 
+644	0	Shopping is not always enjoyable ,	NN VBZ RB RB JJ , 
 711	1	Evenmore we can enjoy our night with lights .	RB PRP MD VB PRP$ NN IN NNS . 
 177	0	Hope to hear from you soon	VB TO VB IN PRP RB 
 589	0	That replacement really disappointed me .	DT NN RB VBD PRP . 
@@ -136,7 +136,7 @@ id	label	sentence	pos
 237	0	I ask you to return my money .	PRP VBP PRP IN VB PRP$ NN . 
 93	0	You ca n't imagine how fun it was !	PRP MD RB VB WRB JJ PRP VBD . 
 450	0	I was really disappointed with your show .	PRP VBD RB JJ IN PRP$ NN . 
-570	0	. I am glad to provide all the information	. PRP VBP JJ TO VB PDT DT NN 
+570	0	I am glad to provide all the information .	PRP VBP JJ TO VB PDT DT NN .
 542	0	Nobody informed me about that .	NN VBD PRP IN DT . 
 284	0	So I paid for the ticket .	RB PRP VBD IN DT NN . 
 184	0	People 's imaginations are enormous .	NNS POS NNS VBP JJ . 
@@ -144,7 +144,7 @@ id	label	sentence	pos
 445	0	Also there is a big problem : the money .	RB EX VBZ DT JJ NN : DT NN . 
 153	0	Last Saturday evening I had a wonderful time .	JJ NNP NN PRP VBD DT JJ NN . 
 75	0	It was a perfectly terrible evening out .	PRP VBD DT RB JJ NN RB . 
-794	1	This is the highest building in Tokyo .	DT VBZ DT JJS NN IN NNP . 
+794	0	This is the highest building in Tokyo .	DT VBZ DT JJS NN IN NNP . 
 533	0	I am so amazed about winning the competition .	PRP VBP RB JJ IN VBG DT NN . 
 277	0	And I would love to learn surfing and painting .	CC PRP MD VB TO VB VBG CC VBG . 
 68	0	The second activity is more of a hobby .	DT JJ NN VBZ JJR IN DT NN . 
@@ -172,7 +172,7 @@ id	label	sentence	pos
 668	1	Second , I prefer log cabins than tents .	RB , PRP VBP NN NNS IN NNS . 
 116	0	I do n't really like staying in tents .	PRP VBP RB RB VB VBG IN NNS . 
 228	0	Why do you give this information in an advertisement ?	WRB VBP PRP VB DT NN IN DT NN . 
-603	1	I do not like the tents ;	PRP VBP RB VB DT NNS , 
+603	0	I do not like the tents ;	PRP VBP RB VB DT NNS , 
 662	1	Who know ?	WP VBP . 
 486	0	I would choose photography and tennis .	PRP MD VB NN CC NN . 
 274	0	I was enthusiastic about this special event .	PRP VBD JJ IN DT JJ NN . 
@@ -215,22 +215,22 @@ id	label	sentence	pos
 831	1	Yes , it was a strange behaviour .	UH , PRP VBD DT JJ NN . 
 149	0	I think it is bombastic .	PRP VBP PRP VBZ JJ . 
 124	0	How much money do I need for this trip ?	WRB JJ NN VBP PRP VB IN DT NN . 
-680	1	And tickets were too expensive !	CC NNS VBD RB JJ . 
-749	1	Could you believe my luck ?	MD PRP VB PRP$ NN . 
+680	0	And tickets were too expensive !	CC NNS VBD RB JJ . 
+749	0	Could you believe my luck ?	MD PRP VB PRP$ NN . 
 185	0	Pat promised to tell nobody about our purpose .	NNP VBD TO VB NN IN PRP$ NN . 
 576	0	I look forward to hearing from you .	PRP VBP RB IN VBG IN PRP . 
 50	0	I 'll tell you the two activities I chose .	PRP MD VB PRP DT CD NNS PRP VBD . 
 341	0	I hope your questions have been answered appropriately .	PRP VBP PRP$ NNS VBP VBN VBN RB . 
 446	0	Although you mentioned them in your advertisement .	IN PRP VBD PRP IN PRP$ NN . 
-851	1	Will it be possible to join a surf school ?	MD PRP VB JJ TO VB DT NN NN . 
+851	0	Will it be possible to join a surf school ?	MD PRP VB JJ TO VB DT NN NN . 
 519	0	I look forward to hearing from you	PRP VBP RB TO VBG IN PRP 
 321	0	You wo n't dance but the earnings are guaranteed !	PRP MD RB VB CC DT NNS VBP VBN . 
 353	0	I have never liked shopping .	PRP VBP RB VBN VBG . 
-798	1	I suggest that you wear a formal dress .	PRP VBP IN PRP VBP DT JJ NN . 
+798	0	I suggest that you wear a formal dress .	PRP VBP IN PRP VBP DT JJ NN . 
 142	0	It was this last point that got me angry .	PRP VBD DT JJ NN WDT VBD PRP JJ . 
 470	0	I look forward to an answer from you .	PRP VBP RB IN DT NN IN PRP . 
 370	0	Modern technology plays an important role in our lives .	JJ NN VBZ DT JJ NN IN PRP$ NNS . 
-800	1	Everyone gets a television at home .	NN VBZ DT NN IN NN . 
+800	0	Everyone gets a television at home .	NN VBZ DT NN IN NN . 
 141	0	One of them is in the area of fashion .	CD IN PRP VBZ IN DT NN IN NN . 
 399	0	I am just kidding .	PRP VBP RB VBG . 
 493	0	I live and I need different products to survive .	PRP VBP CC PRP VBP JJ NNS TO VB . 
@@ -250,7 +250,7 @@ id	label	sentence	pos
 25	0	It began 45 minutes later than it should have .	PRP VBD CD NNS RBR IN PRP MD VBP . 
 636	1	I prefer in tents .	PRP VBP IN NNS . 
 169	0	I would be glad if you considered my suggestions .	PRP MD VB JJ IN PRP VBD PRP$ NNS . 
-781	1	A free shuttel-bus gets you to the conference-center .	DT JJ NN VBZ PRP IN DT NN . 
+781	0	A free shuttle-bus gets you to the conference-center .	DT JJ NN VBZ PRP IN DT NN . 
 38	0	Technology is the future , and the present .	NN VBZ DT NN , CC DT JJ . 
 175	0	So , maths lessons should be filmed .	RB , NN NNS MD VB VBN . 
 245	0	It is a fact that shopping is not enjoyable .	PRP VBZ DT NN IN NN VBZ RB JJ . 
@@ -282,7 +282,7 @@ id	label	sentence	pos
 45	0	Functions ' clothes are the way to love animals !	NNS POS NNS VBP DT NNS TO VB NNS . 
 820	1	One day Peter killed one boy .	CD NN NNP VBD CD NN . 
 157	0	It was a shame .	PRP VBD DT NN . 
-691	1	I was really great .	PRP VBD RB JJ . 
+691	0	It was really great .	PRP VBD RB JJ . 
 171	0	I 've been busy preparing for English exams .	PRP VBP VBN JJ VBG IN NNP NNS . 
 16	0	Dear Sir or Madam ,	JJ NNP CC NNP . 
 511	0	I saw the pink snow there .	PRP VBD DT JJ NN RB . 
@@ -305,7 +305,7 @@ id	label	sentence	pos
 374	0	She was very angry and hurt .	PRP VBD RB JJ CC JJ . 
 469	0	I believe we 'll be more into fashionable stuff .	PRP VBP PRP MD VB RBR IN JJ NN . 
 832	1	Our mission was , stealing the women 's panties ,	PRP$ NN VBD , VBG DT NNS POS NNS , 
-734	1	Everyone enjoys wearing nice new clothes ,	NN VBZ VBG JJ JJ NNS , 
+734	0	Everyone enjoys wearing nice new clothes ,	NN VBZ VBG JJ JJ NNS , 
 631	1	It played an other one who played very bad .	PRP VBD DT JJ NN WP VBD RB JJ . 
 194	0	I think it affects you more than you think .	PRP VBP PRP VBZ PRP JJR IN PRP VBP . 
 736	1	I suggest to wear shirts and jeans .	PRP VBP TO VB NNS CC NNS . 
@@ -313,12 +313,12 @@ id	label	sentence	pos
 503	0	Hungbu had nothing but his family of twelve .	PRP VBD NN CC PRP$ NN IN CD . 
 834	1	he just has sweet-looking .	PRP RB VBZ JJ . 
 718	1	I 'm looking forward to hearing soon from you .	PRP VBP VBG RB IN VBG RB IN PRP . 
-833	1	It said it will start at 19:30 .	PRP VBD PRP MD VB IN CD . 
+833	0	I said it will start at 19:30 .	PRP VBD PRP MD VB IN CD . 
 162	0	I know how to develop films and print photographs .	PRP VBP WRB TO VB NNS CC VB NNS . 
 610	1	The respect is essential .	DT NN VBZ JJ . 
 152	0	I collect strange photographs by myself .	PRP VBP JJ NNS IN PRP . 
 593	0	Finally last night was not a perfect evening .	RB JJ NN VBD RB DT JJ NN . 
-628	1	I hope you are doing fine ,	PRP VBP PRP VBP VBG RB , 
+628	0	I hope you are doing fine ,	PRP VBP PRP VBP VBG RB , 
 655	1	Two of my best activities are swimming and photography .	CD IN PRP$ JJS NNS VBP NN CC NN . 
 111	0	However , all the students are passive .	RB , PDT DT NNS VBP JJ . 
 226	0	Then all the girls became jealous and stopped laughing .	RB PDT DT NNS VBD JJ CC VBD VBG . 
@@ -334,7 +334,7 @@ id	label	sentence	pos
 813	1	I have a big news .	PRP VBP DT JJ NNS . 
 207	0	I answered her saying I probably would die .	PRP VBD PRP VBG PRP RB MD VB . 
 728	1	I look forward to reading from you .	PRP VBP RB IN VBG IN PRP . 
-843	1	At home , there are less rules .	IN NN , EX VBP JJR NNS . 
+843	0	At home , there are fewer rules .	IN NN , EX VBP JJR NNS . 
 8	0	They all know where the conference is and when .	PRP DT VBZ WRB DT NN VBZ CC WRB . 
 821	1	And if during the nights there are entrotenements ?	CC IN IN DT NNS EX VBP NNS . 
 36	0	That 's why I 'd like to feel adventurous .	DT VBZ WRB PRP MD VB TO VB JJ . 
@@ -343,13 +343,13 @@ id	label	sentence	pos
 303	0	' That 's me ! '	`` DT VBZ PRP . '' 
 751	1	Than you for reading .	VB PRP IN VBG . 
 571	0	Suddenly , the burglar alarm came on .	RB , DT NN NN VBD RB . 
-616	1	Is n't it a big opportunity for us ?	VBZ RB PRP DT JJ NN IN PRP . 
+616	0	Is n't it a big opportunity for us ?	VBZ RB PRP DT JJ NN IN PRP . 
 625	1	Also , there are two activities should be filmed .	RB , EX VBP CD NNS MD VB VBN . 
 262	0	It 's good that he is far away ...	PRP VBZ JJ IN PRP VBZ RB RB . 
 297	0	Why are the media so interested in famous people ?	WRB VBZ DT NN RB JJ IN JJ NNS . 
 414	0	Grammar , which is the basis of learning English .	NN , WDT VBZ DT NN IN VBG NNP . 
 150	0	Perhaps I could help regularly in the lighting area -	RB PRP MD VB RB IN DT NN NN HYPH 
-682	1	I hope to give you enough information .	PRP VBP TO VB PRP JJ NN . 
+682	0	I hope to give you enough information .	PRP VBP TO VB PRP JJ NN . 
 764	1	How much money I can spent during this time ?	WRB JJ NN PRP MD VBD IN DT NN . 
 550	0	The statue is protected by guards .	DT NN VBZ VBN IN NNS . 
 488	0	When I finish working I come back home .	WRB PRP VB VBG PRP VBP RB NN . 
@@ -363,7 +363,7 @@ id	label	sentence	pos
 325	0	I wonder if you could explain to me why .	PRP VBP IN PRP MD VB IN PRP WRB . 
 186	0	There will be extra buses to get there .	EX MD VB JJ NNS TO VB RB . 
 123	0	What clothes should I take ?	WDT NNS MD PRP VB . 
-735	1	I did n't mind telling her about my cousin ,	PRP VBD RB VB VBG PRP IN PRP$ NN , 
+735	0	I did n't mind telling her about my cousin ,	PRP VBD RB VB VBG PRP IN PRP$ NN , 
 608	1	Finaly last nigh was not perfect evening .	RB JJ NN VBD RB JJ NN . 
 143	0	The number of foreign students has recently been increasing .	DT NN IN JJ NNS VBZ RB VBN VBG . 
 824	1	Rod was a happy man at that times .	NNP VBD DT JJ NN IN DT NNS . 
@@ -378,34 +378,34 @@ id	label	sentence	pos
 438	0	No , I 'm only a daughter of technology .	UH , PRP VBP RB DT NN IN NN . 
 246	0	That time I had to sleep in a tent .	DT NN PRP VBD TO VB IN DT NN . 
 415	0	One day fortune helped our poor Pat .	CD NN NN VBD PRP$ JJ NNP . 
-763	1	his name is saul Hernañdez and he is very funny	PRP$ NN VBZ NNP NNP CC PRP VBZ RB JJ 
+763	0	His name is Saul Hernañdez and he is very funny	PRP$ NN VBZ NNP NNP CC PRP VBZ RB JJ 
 129	0	I was pleased to receive your letter recently .	PRP VBD JJ TO VB PRP$ NN RB . 
 637	1	Your faithfully	PRP$ RB 
 402	0	But what about 100 years later ?	CC WP IN CD NNS RB . 
-678	1	We are both a little afraid ,	PRP VBP RB DT JJ JJ , 
+678	0	We are both a little afraid ,	PRP VBP RB DT JJ JJ , 
 667	1	Secondly , I want to stay in log cabin .	RB , PRP VB TO VB IN NN NN . 
 785	1	Is it suitable for you ?	VBZ PRP JJ IN PRP . 
 219	0	The best thing was of course meeting Tina .	DT JJS NN VBD RB RB VBG NNP . 
-641	1	Thanks for your letter ,	NN IN PRP$ NN , 
+641	0	Thanks for your letter ,	NN IN PRP$ NN , 
 787	1	They grow up and became wise .	PRP VBP RP CC VBD JJ . 
 652	1	I usually stay a tent during camping .	PRP RB VBP DT NN IN VBG . 
 790	1	In the advertisement they said that tickets discounts available .	IN DT NN PRP VBD IN NNS NNS JJ . 
 624	1	After concert I left with Ricky Martin .	IN NN PRP VBD IN NNP NNP . 
-767	1	I appreciated him a lot .	PRP VBD PRP DT NN . 
+767	0	I appreciated him a lot .	PRP VBD PRP DT NN . 
 660	1	The party will be take place in Palace Hotel .	DT NN MD VB VB NN IN NNP NNP . 
 386	0	Unfortunately , Pat was n't good at keeping secrets .	RB , NNP VBD RB JJ IN VBG NNS . 
 836	1	At that time he was unconcious ,	IN DT NN PRP VBD JJ , 
 509	0	I 've always wanted to go to the U.S.A.	PRP VBP RB VBN TO VB IN DT NNP 
 267	0	She has an open mind .	PRP VBZ DT JJ NN . 
-709	1	Take care of youself .	VB NN IN PRP . 
+709	0	Take care of youself .	VB NN IN PRP . 
 441	0	We spent all our time together .	PRP VBD PDT PRP$ NN RB . 
 496	0	I was 15 years old then .	PRP VBD CD NNS JJ RB . 
 112	0	We ca n't listen to music in class either .	PRP MD RB VB IN NN IN NN RB . 
 232	0	I bought a group ticket for the show	PRP VBD DT NN NN IN DT NN 
 750	1	It could be good memorable thing for me .	PRP MD VB JJ JJ NN IN PRP . 
-607	1	Then Sara looked down the river .	RB NNP VBD IN DT NN . 
+607	0	Then Sara looked down the river .	RB NNP VBD IN DT NN . 
 373	0	You need to learn how you can use technology .	PRP VBP TO VB WRB PRP MD VB NN . 
-845	1	You may only get tired on your feet .	PRP MD RB VB JJ IN PRP$ NN . 
+845	0	You may only get tired on your feet .	PRP MD RB VB JJ IN PRP$ NN . 
 233	0	The place is the college garden .	DT NN VBZ DT NN NN . 
 679	1	Teacher are helping students with their problems .	NN VBP VBG NNS IN PRP$ NNS . 
 317	0	I 'm looking forward to hearing from you .	PRP VBP VBG RB TO VBG IN PRP . 
@@ -420,7 +420,7 @@ id	label	sentence	pos
 376	0	I was so disappointed about that .	PRP VBD RB JJ IN DT . 
 384	0	Can you give me this information ?	MD PRP VB PRP DT NN . 
 224	0	It was my favourite musical .	PRP VBD PRP$ JJ NN . 
-819	1	it was great to hear from you .	PRP VBD JJ TO VB IN PRP . 
+819	0	It was great to hear from you .	PRP VBD JJ TO VB IN PRP . 
 705	1	The story had began two days before ...	DT NN VBD VBN CD NNS RB . 
 472	0	Because , these days I 'm very happy .	RB , DT NNS PRP VBP RB JJ . 
 347	0	She prefers shopping to everything else .	PRP VBZ NN IN NN JJ . 
@@ -428,24 +428,24 @@ id	label	sentence	pos
 639	1	As the home is built on the sky .	IN DT NN VBZ VBN IN DT NN . 
 850	1	I 'll tell you more experience on next letter .	PRP MD VB PRP JJR NN IN JJ NN . 
 799	1	So you would spend more money you have expected .	RB PRP MD VB JJR NN PRP VBP VBN . 
-778	1	They ca n't believe him .	PRP MD RB VB PRP . 
+778	0	They ca n't believe him .	PRP MD RB VB PRP . 
 619	1	it costs me about £ 500 .	PRP VBZ PRP RB $ CD . 
 737	1	I really hope that you gona consider our request .	PRP RB VBP IN PRP MD VB PRP$ NN . 
 645	1	Your sincerly	PRP$ RB 
-730	1	it 's the Palace Hotel .	PRP VBZ DT NNP NNP . 
+730	0	It 's the Palace Hotel .	PRP VBZ DT NNP NNP . 
 556	0	Thank you for your last letter .	VBP PRP IN PRP$ JJ NN . 
 823	1	Thank you for choosen our ticket at the final .	VBP PRP IN VBN PRP$ NN IN DT NN . 
 577	0	Are tablets necessary ( for headache , insects ) ?	VBZ NNS JJ -LRB- IN NN , NNS -RRB- . 
 85	0	But at golf I am a beginner .	CC IN NN PRP VBP DT NN . 
 242	0	She was always being pursued by the media .	PRP VBD RB VBG VBN IN DT NN . 
-698	1	It was just an usual day .	PRP VBD RB DT JJ NN . 
+698	0	It was just an usual day .	PRP VBD RB DT JJ NN . 
 159	0	But it started at 20:15 !	CC PRP VBD IN CD . 
 524	0	It was very interesting and enjoyable .	PRP VBD RB JJ CC JJ . 
 35	0	So I think you 'd better wear a dress .	RB PRP VBP PRP VBD RBR VB DT NN . 
 540	0	I was really pleased to receive your letter .	PRP VBD RB JJ TO VB PRP$ NN . 
 170	0	It was a very good experience for me	PRP VBD DT RB JJ NN IN PRP 
 654	1	That was so uncomfortable , people was starving .	DT VBD RB JJ , NNS VBD VBG . 
-739	1	I am absolutely annoyed .	PRP VBP RB JJ . 
+739	0	I am absolutely annoyed .	PRP VBP RB JJ . 
 731	1	A crowded hall is not good to enjoy musics .	DT JJ NN VBZ RB JJ TO VB NNS . 
 812	1	I wish you answer me soon .	PRP VBP PRP VBP PRP RB . 
 95	0	It 's about money .	PRP VBZ IN NN . 
@@ -467,7 +467,7 @@ id	label	sentence	pos
 612	1	The princess grew up beautifully .	DT NN VBD RP RB . 
 546	0	The other activity I would prefer is sailing .	DT JJ NN PRP MD VB VBZ NN . 
 725	1	He respected and still loves it .	PRP VBD CC RB VBZ PRP . 
-683	1	I would like to give a suggestion .	PRP MD VB TO VB DT NN . 
+683	0	I would like to give a suggestion .	PRP MD VB TO VB DT NN . 
 98	0	Actually I ca n't swim at all .	RB PRP MD RB VBG IN DT . 
 727	1	Could you back my money please ?	MD PRP VB PRP$ NN UH . 
 573	0	I want to attend swimming and tennis courses .	PRP VBP TO VB NN CC NN NNS . 
@@ -484,7 +484,7 @@ id	label	sentence	pos
 378	0	In the future they will get closer and closer .	IN DT NN PRP MD VB JJR CC JJR . 
 288	0	I hope to hear from you soon	PRP VBP TO VB IN PRP RB 
 418	0	He suggested having supper in your theatre restaurant .	PRP VBD VBG NN IN PRP$ NN NN . 
-674	1	You asked some questions about rules in school and homes	PRP VBD DT NNS IN NNS IN NN CC NNS 
+674	0	You asked some questions about rules in school and homes	PRP VBD DT NNS IN NNS IN NN CC NNS 
 391	0	I hope to see many more films next year .	PRP VBP TO VB RB JJR NNS JJ NN . 
 592	0	Then Sara looked into the river .	RB NNP VBD IN DT NN . 
 498	0	Lots of love ,	NNS IN NN . 
@@ -505,7 +505,7 @@ id	label	sentence	pos
 216	0	Second , I prefer to stay in a tent .	RB , PRP VBP TO VB IN DT NN . 
 52	0	I know you have good taste in presents !	PRP VBP PRP VBP JJ NN IN NNS . 
 337	0	He told his wife this story .	PRP VBD PRP$ NN DT NN . 
-748	1	It is not the only problem .	PRP VBZ RB DT JJ NN . 
+748	0	It is not the only problem .	PRP VBZ RB DT JJ NN . 
 719	1	That was very disapponted .	DT VBD RB JJ . 
 724	1	I am interst playing tennis very much .	PRP VBP JJ VBG NN RB RB . 
 295	0	No one will walk on roads .	DT NN MD VB IN NNS . 
@@ -514,14 +514,14 @@ id	label	sentence	pos
 726	1	It was because they closed early than usual .	PRP VBD IN PRP VBD RB IN JJ . 
 461	0	science and technology are mainly responsible for this .	NN CC NN VBP RB JJ IN DT . 
 455	0	Regarding the activities , I choose swimming and tennis .	VBG DT NNS , PRP VBP NN CC NN . 
-859	1	I vish you were here with me .	PRP VBP PRP VBD RB IN PRP . 
+859	0	I wish you were here with me .	PRP VBP PRP VBD RB IN PRP . 
 269	0	I come from a very strict family .	PRP VBP IN DT RB JJ NN . 
 201	0	During those years I had met Zuhal Olcoy .	IN DT NNS PRP VBD VBN NNP NNP . 
 161	0	Then how has it changed our daily life ?	RB WRB VBZ PRP VBD PRP$ JJ NN . 
 555	0	I got confused and was disappointed again .	PRP VBD JJ CC VBD JJ RB . 
 729	1	The show begun 45 minutes later than supposed !	DT NN VBN CD NNS RB IN VBN . 
 401	0	And that made the concert absolutely perfect .	CC DT VBD DT NN RB JJ . 
-702	1	It provides you all the information you want .	PRP VBZ PRP PDT DT NN PRP VBP . 
+702	0	It provides you all the information you want .	PRP VBZ PRP PDT DT NN PRP VBP . 
 476	0	I 'm looking forward to hearing from you ,	PRP VBP VBG RB IN VBG IN PRP . 
 771	1	I 'd like to know USA .	PRP MD VB TO VB NNP . 
 105	0	The next task I was given was ironing costumes .	DT JJ NN PRP VBD VBN VBD VBG NNS . 
@@ -568,7 +568,7 @@ id	label	sentence	pos
 58	0	However , we would like to suggest something :	RB , PRP MD VB TO VB NN : 
 474	0	Thank you very much for that .	VB PRP RB JJ IN DT . 
 560	0	But Golf is an absolutely new trial .	CC NN VBZ DT RB JJ NN . 
-747	1	I hope you find my opinion useful .	PRP VBP PRP VBP PRP$ NN JJ . 
+747	0	I hope you find my opinion useful .	PRP VBP PRP VBP PRP$ NN JJ . 
 252	0	Thank you very much for your attention on my behalf	VBP PRP RB RB IN PRP$ NN IN PRP$ NN 
 21	0	If not , what do you suggest ?	IN RB , WP VBP PRP VB . 
 313	0	How are you ?	WRB VBP PRP . 
@@ -581,7 +581,7 @@ id	label	sentence	pos
 413	0	Pat was her best friend so she told him .	NNP VBD PRP$ JJS NN IN PRP VBD PRP . 
 491	0	Dear Mrs Ryan ,	JJ NNP NNP . 
 343	0	Another problem is I thought that discounts were available .	DT NN VBZ PRP VBD IN NNS VBD JJ . 
-769	1	I suggest you to try this kind of experience .	PRP VBP PRP TO VB DT NN IN NN . 
+769	0	I suggest you to try this kind of experience .	PRP VBP PRP TO VB DT NN IN NN . 
 308	0	It helps me with preparing my homework .	PRP VBZ PRP IN VBG PRP$ NN . 
 661	1	Every Monday we 're having a practice time .	DT NNP PRP VBP VBG DT NN NN . 
 130	0	I do n't have any equipment .	PRP VBP RB VB DT NN . 
@@ -596,7 +596,7 @@ id	label	sentence	pos
 121	0	It becomes a life and death struggle .	PRP VBZ DT NN CC NN NN . 
 614	1	I wish that my article comes in your magazine .	PRP VBP IN PRP$ NN VBP IN PRP$ NN . 
 20	0	The quality of life is very low .	DT NN IN NN VBZ RB JJ . 
-700	1	More and more people are connecting through the net .	JJR CC JJR NNS VBP VBG IN DT NN . 
+700	0	More and more people are connecting through the net .	JJR CC JJR NNS VBP VBG IN DT NN . 
 71	0	It is popular with the students .	PRP VBZ JJ IN DT NNS . 
 106	0	I also had to clean the washrooms .	PRP RB VBD TO VB DT NNS . 
 270	0	Thank you very much for your letter .	VB PRP RB RB IN PRP$ NN . 

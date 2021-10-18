@@ -1,4 +1,4 @@
-# Intro to NLP - Assignment 2
+# Intro to NLP - Assignment 2 with Dataset Version 2
 
 ## Team
 |Student name| CCID |
